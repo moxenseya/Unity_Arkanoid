@@ -1,7 +1,7 @@
 # Unity - Arkanoid
 Arkanoid is an arcade game released by Taito in 1986. It expanded upon Atari's Breakout games of the 1970s by adding power-ups, different types of bricks, a variety of level layouts, and more sculpted, layered visuals. The title refers to a doomed mother ship from which the player's ship, the Vaus, escapes. [Wikipedia](https://en.wikipedia.org/wiki/Arkanoid)
 
-This project is a recreation of this famous arcade shooter game
+This project is a recreation of this famous arcade shooter game, as part of Ben Tristem's Unity Developer Course
 
 ## Features
 
@@ -10,5 +10,6 @@ This project is a recreation of this famous arcade shooter game
 - High quality assets
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MzQzNjExLDkyMTkwMTcyNl19
+eyJoaXN0b3J5IjpbMjEyNTI3MjgsMzE4MzQzNjExLDkyMTkwMT
+cyNl19
 -->
