@@ -6,8 +6,9 @@ This project is a recreation of this famous arcade shooter game
 ## Features
 
 - Easy to play 2 button gameplay
-- 
+- Sound and visual effects
+- High quality assets
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1ODg0MjQ0LDkyMTkwMTcyNl19
+eyJoaXN0b3J5IjpbMzE4MzQzNjExLDkyMTkwMTcyNl19
 -->
